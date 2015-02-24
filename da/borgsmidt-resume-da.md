@@ -42,7 +42,7 @@ master/holdkaptajn_ for et hold af udviklere spredt over fire tidszoner.
 #### _Ledende software-udvikler, Cognos, 2003--2008_
 
 I denne rolle var min primære opgave at udvikle og vedligeholde centrale
-serverkomponenter i software-produktet **IBM Cognos Planning**. Derudover var
+serverkomponenter i software-produktet **Cognos Planning**. Derudover var
 jeg ofte involveret i forskningsprojekter, som senere har resulteret i en række
 patenter.
 
@@ -80,7 +80,7 @@ assembler, maskinkode--og listen fortsætter.
 
 Stærk tilhænger af _udefra-ind_ designprincipper, som f.eks. _test-driven
 development_, og forstår vigtigheden af små hold, gradvis levering af ny
-funktionalitet, samt iterative processer generelt. Anerkender det gode håndværk
+funktionalitet, samt iterative processer generelt. Respekterer godt håndværk
 inden for software-udvikling og gør en dyd af kontinuert integrering og
 kodeforbedring.
 
