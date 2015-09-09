@@ -1,5 +1,5 @@
 # Rasmus Borgsmidt
-#### _Erfaren software-udvikler, bachelor i datalogi fra DIKU_
+#### _Selvstændig softwarekonsulent, bachelor i datalogi fra DIKU_
 ---------
 ### Kort om mig
 * Født 1975 og opvokset i Københavnsområdet
@@ -22,6 +22,17 @@
 _Referencer udleveres efter ønske_
 
 ## Erfaring
+
+#### _Lead Developer (Konsulent), KMD, 2015 (apr--dec)_
+
+I denne rolle deler jeg min tid imellem egentlig softwareudvikling og
+formidling/afklaring af funktionalitet, krav, o.lign. til et polsk
+udviklingsteam, så vi sammen kan levere den fornødne funktionalitet. Opgaven er
+at levere et sæt SOAP web services som en del af projektet KOMBIT Støttesystemer
+(STS).
+
+Technologies: OIO standards, SOAP web services, XML/XSD, Java, FreeMarker,
+IntelliJ, Eclipse, Jira, Git, Gradle, SoapUI, LogPoint, WildFly
 
 #### _Ledende software-udvikler, IBM, 2009--2015_
 

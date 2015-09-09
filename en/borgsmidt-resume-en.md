@@ -1,5 +1,5 @@
 # Rasmus Borgsmidt
-#### _Consulting Software Engineer, Bachelor of Computer Science from University of Copenhagen (DIKU)_
+#### _Independent Software Consultant, Bachelor of Computer Science from University of Copenhagen (DIKU)_
 ---------
 ### About me
 * Born 1975 and grew up in the Copenhagen area
@@ -14,7 +14,7 @@
 * Lived abroad a number of years in the UK and Luxembourg
 * Married, father of three, currently based in Copenhagen
 
-### Kontakt
+### Contact
 +45 71 77 03 23  
 [rasmus@borgsmidt.dk](mailto:rasmus@borgsmidt.dk "rasmus@borgsmidt.dk")  
 [linkedin.com/in/borgsmidt](http://dk.linkedin.com/in/borgsmidt "linkedin.com/in/borgsmidt")  
@@ -23,6 +23,15 @@
 _References available upon request_
 
 ## Experience
+
+#### _Lead Developer (Consultant), KMD, 2015 (Apr--Dec)_
+
+In this role, I split my time between software development and enabling a Polish
+team of developers to understand and deliver the required functionality. The task
+is to deliver a set of SOAP web services for KOMBIT Støttesystemer (STS).
+
+Technologies: OIO standards, SOAP web services, XML/XSD, Java, FreeMarker,
+IntelliJ, Eclipse, Jira, Git, Gradle, SoapUI, LogPoint, WildFly
 
 #### _Sr Software Engineer, IBM, 2009--2015_
 
